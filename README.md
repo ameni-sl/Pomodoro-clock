@@ -16,7 +16,7 @@
 
 ## About The Project:-
 
-![Home page]()
+![Home page](https://github.com/ameni-sl/Pomodoro-clock/blob/master/public/img/pomodoro.png)
 
 =======
 Pomodoro Clock is a  website that makes users able to set a Pomodoro timer and short & long break timers, customize how long each timer runs for and finally see a circular progress bar that updates every minute and represents how far through their timer they are.
